@@ -1,6 +1,8 @@
 *~
 *.swp
 *.swo
+plugins/*/
+www
 node_modules
 package-lock.json
 platforms

@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Shadows Into Light";
+  src: url(./tangerine.woff2) format('woff2');
+}
+
+body pre {
+  font-family: "Tangerine", serif;
+}
